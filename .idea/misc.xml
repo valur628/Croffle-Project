@@ -4,6 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/park ju cheol/AndroidStudioProjects/CroffleProject/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/tlsdn/Croffle-Project/app/src/main/res/drawable/layer_list.xml" value="0.1" />
+        <entry key="..\:/Users/tlsdn/Croffle-Project/app/src/main/res/drawable/rounded_layout.xml" value="0.1625" />
+        <entry key="..\:/Users/tlsdn/Croffle-Project/app/src/main/res/drawable/rounded_layout_setting.xml" value="0.2755" />
+        <entry key="..\:/Users/tlsdn/Croffle-Project/app/src/main/res/drawable/rounded_layout_stats.xml" value="0.2755" />
+        <entry key="..\:/Users/tlsdn/Croffle-Project/app/src/main/res/drawable/rounded_rectangle.xml" value="0.1595" />
+        <entry key="..\:/Users/tlsdn/Croffle-Project/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/tlsdn/Croffle-Project/app/src/main/res/layout/activity_setting_page.xml" value="0.18" />
+        <entry key="..\:/Users/tlsdn/Croffle-Project/app/src/main/res/layout/activity_stats_page.xml" value="0.23092105263157894" />
+        <entry key="..\:/Users/tlsdn/Croffle-Project/app/src/main/res/layout/stats_page.xml" value="0.2" />
       </map>
     </option>
   </component>
